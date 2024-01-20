@@ -1,0 +1,32 @@
+.hero__content {
+  margin-top: 150px;
+  line-height: 3ch;
+}
+.hero__content h1 {
+  color: aliceblue;
+  font-size: 40px;
+  font-weight: 700;
+}
+.hero__content p {
+  color: aqua;
+  font-family: var(--font-name);
+}
+
+.header_main::after,
+.header_main::before,
+.section::after,
+.section::before {
+  content: "";
+  background: url(https://raw.githubusercontent.com/programmercloud/pgc-gym/main/img/blur-1.png);
+  position: absolute;
+  width: 400px;
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  bottom: 0;
+}
+
+.header_main::after {
+  left: -200px;
+}

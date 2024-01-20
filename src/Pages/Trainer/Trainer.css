@@ -1,0 +1,40 @@
+.container-conatiner {
+  padding-top: 70px;
+}
+.div-line{
+  width: 30%;
+  height: 1.1px;
+  background-color: rgb(255, 8, 8);
+}
+.container-main-swec {
+  margin-bottom: 40px;
+}
+.h1_main {
+  color: var(--heading-color);
+
+}
+.secondar11 {
+  color: var(--heading-color);
+  font-weight: 900;
+}
+.tertiary {
+  color: var(--heading-color);
+  font-weight: 500;
+}
+#trainer {
+  text-align: center;
+}
+
+.trainer img {
+  border-top-left-radius: 80px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 80px;
+  border-bottom-left-radius: 20px;
+  margin-bottom: 10px;
+  outline: 2px solid #fff;
+  padding: 14px;
+}
+
+.trainer .mb {
+  margin-bottom: 10px;
+}

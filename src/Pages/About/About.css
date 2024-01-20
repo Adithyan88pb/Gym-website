@@ -1,0 +1,14 @@
+
+.about_main{
+    color: aliceblue;
+    font-family: var(--font-name);
+    margin-top: 50px;
+}
+.about_main h1{
+    font-size: 40px;
+    font-weight: 700;
+}
+.about_main p{
+    font-size: 20px;
+    font-weight: 100;
+}

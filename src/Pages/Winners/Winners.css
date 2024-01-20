@@ -1,0 +1,28 @@
+.container-h1{
+  padding-top: 20px;
+  padding-bottom: 30px;
+  font-weight: 900;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-style: oblique;
+  font-size: 60px;
+  color: aliceblue;
+}
+.div-line{
+  width: 30%;
+  height: 1.1px;
+  background-color: rgb(255, 8, 8);
+}
+
+.image {
+  border-radius: 5px;
+}
+
+.main-cards {
+  background: radial-gradient(#111, #071a1a);
+}
+.main-cards h5 {
+  color: antiquewhite;
+}
+.main-cards p {
+  color: antiquewhite;
+}
